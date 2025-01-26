@@ -1,0 +1,25 @@
+.controls{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+}
+
+.cuttonItemCount{
+    height: 28px;
+    width: 28px;
+    margin: auto;
+    color: #3A506B;
+    border: 1px solid #3A506B;
+}
+
+.buttonCounterContainer{
+    display: flex;
+}
+
+.buttonItemCount{
+    margin: auto;
+    width: 200px;
+    height: 28px;
+    color: #3A506B;
+    border: 1px solid #3A506B;
+}

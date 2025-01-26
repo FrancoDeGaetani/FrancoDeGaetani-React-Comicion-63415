@@ -1,0 +1,26 @@
+.NavBar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+    background-color: #1A1A1A;
+}
+
+.img-logo{
+    width: 130px;
+}
+
+.button-container{
+    display: flex;
+    gap: 30px;
+}
+
+.linkContainer{
+    display: flex;
+    gap: 30px;
+}
+.Option, .ActiveOption{
+    text-decoration: none;
+    background-color: #F0F0F0;
+    padding: 5px 10px;
+}
