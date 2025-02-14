@@ -23,8 +23,8 @@ const NavBar = ()=>{
                     <NavLink to={`/category/electronics`} className={({isActive})=>isActive ? 'ActiveOption' : 'Option'}>
                         Electronics
                     </NavLink>
+                    <CartWidget/>
                 </div>
-                <CartWidget/>
             </div>
         </nav>
     )

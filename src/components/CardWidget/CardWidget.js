@@ -9,7 +9,7 @@ const CartWidget = ()=>{
     const {totalQuantity} = useContext(CartContext)
 
     return(
-        <Link to="/cart" className="cartWidget" style={{display: totalQuantity > 0 ? 'none' : 'block'}}>
+        <Link to="/cart" className="cartWidget" style={{display: totalQuantity > 0 ? 'block' : 'none'}}>
             <FaBagShopping className="carrito"/>
             {totalQuantity}
         </Link>

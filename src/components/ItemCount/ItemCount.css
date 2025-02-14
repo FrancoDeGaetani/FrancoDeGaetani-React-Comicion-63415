@@ -4,7 +4,7 @@
     justify-content: center;
 }
 
-.cuttonItemCount{
+.buttonItemCount{
     height: 28px;
     width: 28px;
     margin: auto;
@@ -16,7 +16,7 @@
     display: flex;
 }
 
-.buttonItemCount{
+.buttonAgregar{
     margin: auto;
     width: 200px;
     height: 28px;

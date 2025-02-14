@@ -1,5 +1,7 @@
 .itemsLiscContainer{
-    margin: 30px;
+    width: 85%;
+    margin: auto;
     display: flex;
     justify-content: center;
+
 }

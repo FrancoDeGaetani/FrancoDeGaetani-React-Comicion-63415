@@ -33,9 +33,6 @@ const ItemDetail = ({id,title,image,category,description,price,stock}) =>{
                 </div>
                 <section className="sectionItemDetail">
                     <p className="infoItemDetail">
-                        Category : {category}
-                    </p>
-                    <p className="infoItemDetail">
                         Descripcion : {description}
                     </p>
                     <p className="infoItemDetail">

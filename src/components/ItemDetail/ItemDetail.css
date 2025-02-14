@@ -1,10 +1,8 @@
 .cardItemDetail{
     background-color:#3A506B ;
+    padding: 30px;
 }
 
-.headerItemDetail{
-    padding-top: 20px;
-}
 
 .tituloItemDetail{
     text-align: center;
@@ -13,7 +11,7 @@
     padding: 15px;
     background-color: #F0F0F0;
     width: 800px;
-    margin: 20px auto;
+    margin: 10px  auto;
 }
 
 .mainBodyItem{
@@ -22,26 +20,27 @@
 }
 
 .imgContainerItemDetail{
-    height: 700px;
-    margin: 10px;
-    
+    margin: auto;
+    height: 100%;
 }
 
 .imgItemDetail{
-    height: 100%;   
-    object-fit: contain;
+    height: 100%;
+    width: 100%;   
 }
 
 .mainBodyItem{
     display: flex;
+    align-items: center;
     justify-content: space-around;
+    gap: 10px;
 }
 
 .sectionItemDetail{
-    width: 600px;
+    width: 700px;
+    height: 100%;
     background-color: #F0F0F0;
     padding: 20px;
-    margin: 10px;
     display: flex;
     flex-direction: column;
     justify-content: center;

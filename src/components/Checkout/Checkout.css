@@ -1,0 +1,24 @@
+.form-checkout-container{
+    width: 60%;
+    background-color: #3A506B;
+    margin: 50px auto;
+    padding: 30px;
+    border-radius: 20px;
+}
+.form-checkout-container h1{
+    text-align: center;
+    color: #fff;
+    margin: 0;
+    font-size: 50px;
+}
+
+.compra-completada p, .pantalla-carga p{
+    width: 90%;
+    color: #3A506B;
+    text-align: center;
+    font-size: 35px;
+    margin: 50px auto;
+    padding: 10px;
+    border: 3px solid #3A506B;
+    border-radius: 10px;
+}

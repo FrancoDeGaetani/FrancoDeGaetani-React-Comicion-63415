@@ -8,7 +8,7 @@
     text-align: center;
     color: #F0F0F0;
     font-family:Arial, Helvetica, sans-serif;
-    font-size: 20px;
+    font-size: 18px;
 }
 
 .itemImg{
@@ -18,10 +18,11 @@
 }
 
 .itemImgContainer{
-    width: auto;
-    height: 500px;
+    width: 270px;
+    height: 350px;
     padding: 10px;
     border-radius: 10px;
+    margin: auto;
 }
 
 .sectionItem{
@@ -30,7 +31,7 @@
 }
 .sectionItem p {
     color: #F0F0F0;
-    font-size: 20px;
+    font-size: 17px;
     font-family:Arial, Helvetica, sans-serif;
 }
 
@@ -41,11 +42,12 @@ footer{
 
 .option{
     background-color: #F0F0F0;
-    width: 90%;
+    width: 80%;
     padding: 10px;
     margin-bottom: 15px;
     text-align: center;
     text-decoration: none;
     border-radius: 10px;
     font-family:Arial, Helvetica, sans-serif;
+    color: #3A506B;
 }
