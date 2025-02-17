@@ -14,7 +14,7 @@ const CartItem = ({item}) => {
                 <p>Cantidad: {item.quantity}</p>
             </div>
             <div className='item-total-container'>
-                <p>Subtotal: {item.quantity * item.price}</p>
+                <p>Subtotal: {(item.quantity * item.price).toFixed(2)}</p>
                 <button onClick={()=> removeItem(item.id)} className='item-button'>Eliminar</button>
             </div>
         </div>    

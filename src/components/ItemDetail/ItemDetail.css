@@ -1,6 +1,7 @@
 .cardItemDetail{
     background-color:#3A506B ;
     padding: 30px;
+    border-radius: 10px;
 }
 
 
@@ -12,6 +13,8 @@
     background-color: #F0F0F0;
     width: 800px;
     margin: 10px  auto;
+    margin-bottom: 30px;
+    border-radius: 10px;
 }
 
 .mainBodyItem{
@@ -21,19 +24,20 @@
 
 .imgContainerItemDetail{
     margin: auto;
-    height: 100%;
+    width: 500px;
 }
 
 .imgItemDetail{
     height: 100%;
     width: 100%;   
+    border-radius: 10px;
 }
 
 .mainBodyItem{
     display: flex;
     align-items: center;
     justify-content: space-around;
-    gap: 10px;
+    gap: 50px;
 }
 
 .sectionItemDetail{
@@ -45,6 +49,7 @@
     flex-direction: column;
     justify-content: center;
     gap: 20px;
+    border-radius: 10px;
 }
 
 .infoItemDetail{
