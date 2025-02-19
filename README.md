@@ -14,6 +14,5 @@ La aplicación ofrece una experiencia de usuario intuitiva y fluida.
 - React Router para la navegación
 - React-dom
 - React-icons
-- Axios para las solicitudes HTTP
 - Bulma y CSS para los estilos 
 - Firebase
