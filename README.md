@@ -12,7 +12,6 @@ La aplicación ofrece una experiencia de usuario intuitiva y fluida.
 ## Tecnologías Utilizadas
 - React
 - React Router para la navegación
-- React-dom
 - React-icons
 - Bulma y CSS para los estilos 
 - Firebase
